@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/grindlog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Grind list/log set operations for shell-friendly data wrangling.",
+  "bin": {
+    "grindlog": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/grindlog.git"
+  },
+  "homepage": "https://theworker02.github.io/grindlog/",
+  "keywords": [
+    "grind",
+    "log",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
